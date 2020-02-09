@@ -28,7 +28,7 @@ Dear YARC members,
 
   effective immediately. 
 
-At this point, the Board is doing everything in our power to regain access to YARC services affected by the takeover. In the meantime, we have created a temporary Discord server in which members may continue their discussions as usual. You may join the server here: https://discord.gg/ermTXt3. 
+At this point, the Board is doing everything in our power to regain access to YARC services affected by the takeover. In the meantime, we have created a temporary Discord server in which members may continue their discussions as usual. You may join the server here: [https://discord.gg/ermTXt3]. 
 
 We would like to reassure you that no matter what happens, the YARC Board will always stay true to its mission of promoting youth in amateur radio and providing an inclusive and diverse community for young hams worldwide, where everyone is welcome to join. We know you have devoted so much of your time helping us build up this wonderful community, and we’d hate to see it taken away. 
 
