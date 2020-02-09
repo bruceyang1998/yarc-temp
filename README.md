@@ -32,7 +32,7 @@ At this point, the Board is doing everything in our power to regain access to YA
 
 We would like to reassure you that no matter what happens, the YARC Board will always stay true to its mission of promoting youth in amateur radio and providing an inclusive and diverse community for young hams worldwide, where everyone is welcome to join. We know you have devoted so much of your time helping us build up this wonderful community, and we’d hate to see it taken away. 
 
-We will keep you updated as we move forward with this process. Due to the volatile nature of this situation, we expect disruptions to the @yarc.world email service, so until further notice, please direct all questions to interim@mail.yarc.world. Thank you for your continued support of YARC. 
+We will keep you updated as we move forward with this process. Due to the volatile nature of this situation, we expect disruptions to the @yarc.world email service, so until further notice, please direct all questions to [interim@**mail**.yarc.world](mailto:interim@mail.yarc.world). Thank you for your continued support of YARC. 
 
 Very 73, 
 
